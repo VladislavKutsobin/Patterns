@@ -2,7 +2,7 @@ package net.proselyte.basepatterns.creational.factory;
 
 public class AppRunner {
     public static void main(String[] args) {
-        DoctorFactory doctorFactory = createDoctorBySpecialty("Traumatologist");
+        DoctorFactory doctorFactory = createDoctorBySpecialty("Dentist");
         Doctor doctor = doctorFactory.createDoctor();
 
         doctor.treat();
