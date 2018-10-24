@@ -3,9 +3,9 @@
 ### Builder Pattern sample
 ---
 
-Implementation of Builder pattern.
-We can create any cars with any discription.
-Discription has three fields: name, carbody, price.
+Implementation of prototype pattern.
+We can create any number copies of Objects.
+In example we one object that displays the description of the book, the author and number.
 
 
 ---
