@@ -1,4 +1,4 @@
-package net.proselyte.basepatterns.behavioral.interpretator;
+package net.proselyte.basepatterns.behavioral.interpreter;
 
 public class OrExpression implements Expression {
     private Expression expression1;

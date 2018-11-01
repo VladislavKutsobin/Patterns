@@ -1,4 +1,4 @@
-package net.proselyte.basepatterns.behavioral.interpretator;
+package net.proselyte.basepatterns.behavioral.interpreter;
 
 public class TerminalExpression implements Expression {
     private String str;
